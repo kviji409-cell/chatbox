@@ -10,5 +10,8 @@
 -CSS
 -Javascript 
 ## run the project
-1. Install the requirements
-2. Run app.py
+1. Install python
+2. Install dependencies:
+pip install-r requirements.txt
+3.Run:
+python app.py
